@@ -40,9 +40,8 @@ ctrl + shift + f1 ~ f12 의 키로 슬롯을 열 수 있습니다.
 ### 개발자
 이명규 github: https://github.com/Leafurya
 
-###개인정보 처리방침
 <details>
- <summary>Privacy Policy for Program Quickslot</summary>
+ <summary>### Privacy Policy for Program Quickslot</summary>
  Privacy Policy
 Last updated: October 02, 2023
 
